@@ -117,3 +117,9 @@ data/athlete_events.csv
 
 #this is created by run_jupyter.sh or .cmd scripts
 home
+<<<<<<< HEAD
+=======
+
+# solutions
+*_solution.ipynb
+>>>>>>> fd41b39cd29a4940074ca017abb6032a520fcf7d
